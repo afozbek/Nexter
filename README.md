@@ -1,16 +1,18 @@
 # Nexter
 
+## Purpose
+
+This project is build for improving my CSS and SASS skills..
 
 ## Some Screenshots
+
 ![Features](img/features.png)
 
 ![Yorum](img/yorum.png)
 
 ![Cart](img/cart.png)
 
-## npm install
-
-This project is build for imporoving my CSS and SASS skills
+![Gallery](img/gallery.png)
 
 ### Installing
 
@@ -25,7 +27,7 @@ And repeat
 ```
 until finished
 ```
-npm intall node-sass --save-dev
+npm install node-sass --save-dev
 
 ## Authors
 
