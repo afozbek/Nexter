@@ -2,6 +2,9 @@
 
 
 ## Some Screenshots
+![Features](img/features.png)
+
+![Yorum](img/yorum.png)
 
 ![Cart](img/cart.png)
 
