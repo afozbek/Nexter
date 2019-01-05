@@ -5,6 +5,7 @@
 This project is build for improving my CSS and SASS skills..
 
 ## Some Screenshots
+![Header](img/header.png)
 
 ![Features](img/features.png)
 
