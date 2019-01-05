@@ -32,5 +32,5 @@ npm install node-sass --save-dev
 
 ## Authors
 
-* **Furkan Özbek** - *Back End Developer* - [afozbek](https://github.com/afozbek)
+* **Furkan Özbek** - *Computer Engineering Student* - [afozbek](https://github.com/afozbek)
 
